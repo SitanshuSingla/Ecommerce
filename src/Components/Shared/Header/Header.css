@@ -1,0 +1,26 @@
+.bg-body-tertiary {
+  background-color: black !important;
+}
+.btn-outline-success {
+  color: white !important;
+  border-color: white !important;
+  --bs-btn-hover-bg: black !important ;
+}
+a:hover {
+  color: white !important;
+}
+a:visited {
+  color: white !important;
+}
+
+.navbar-nav {
+  --bs-nav-link-color: white !important;
+}
+.d {
+  margin: 0 !important;
+}
+.right {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+}

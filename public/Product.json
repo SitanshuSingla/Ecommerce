@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Iphone",
+    "price": "95000",
+    "qty": 1,
+    "Detail": "Created by Iphone",
+    "image": "https://phonesstorekenya.com/wp-content/uploads/2021/09/Apple-iPhone-13-Pro-Max-a-768x768.jpg"
+  },
+  {
+    "name": "Premium Pack of Free Range Organic",
+    "price": "435",
+    "qty": 1,
+    "Detail": "Premium Pack of Free Range Organic Pure Kadaknath Eggs, Fresh Table Eggs, High Protein Eggs. Rich in Iron Content, Low in Cholesterol (Pack of 6 Eggs)",
+    "image": "https://m.media-amazon.com/images/I/517U0BLb2bL._SX679_.jpg"
+  },
+  {
+    "name": "boAt Airdopes 141 ",
+    "price": "2000",
+    "qty": 1,
+    "Detail": "boAt Airdopes 141 True Wireless Earbuds with 42H Playtime, Beast™ Mode(Low Latency Upto 80ms) for Gaming, ENx™ Tech, ASAP™ Charge, IWP™, IPX4 Water Resistance, Smooth Touch Controls(Bold Black)",
+    "image": "https://m.media-amazon.com/images/I/51HBom8xz7L._SY450_.jpg"
+  },
+  {
+    "name": "pTron Boom Ultima ",
+    "price": "400",
+    "qty": 1,
+    "Detail": "pTron Boom Ultima 4D Dual Driver, In Ear Gaming Wired Headphones with Mic, Volume Control & Passive Noise Cancelling Boom 3 Earphones - (Dark Blue)",
+    "image": "https://m.media-amazon.com/images/I/61PlUpGmAYL._SX679_.jpg"
+  },
+  {
+    "name": "SanDisk Cruzer",
+    "price": "999",
+    "qty": 1,
+    "Detail": "SanDisk Cruzer",
+    "image": "https://m.media-amazon.com/images/I/61DjwgS4cbL._SX450_.jpg"
+  },
+  {
+    "name": "Iphone",
+    "price": "95000",
+    "qty": 1,
+    "Detail": "Created by Iphone",
+    "image": "https://phonesstorekenya.com/wp-content/uploads/2021/09/Apple-iPhone-13-Pro-Max-a-768x768.jpg"
+  }
+]

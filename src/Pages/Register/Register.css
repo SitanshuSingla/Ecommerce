@@ -1,0 +1,12 @@
+.reg {
+  margin: 10%;
+}
+
+.form-label {
+  padding-top: 10px;
+  font-weight: bold;
+}
+.a1 {
+  display: flex;
+  justify-content: center;
+}

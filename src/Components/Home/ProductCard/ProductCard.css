@@ -1,0 +1,29 @@
+.card1 {
+  height: 200px;
+  width: 240px;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+.card {
+  margin: 20% !important;
+  width: 270px;
+}
+svg {
+  color: yellow !important;
+}
+.star {
+  display: flex;
+
+  align-items: center;
+}
+.card-title {
+  padding: 6px;
+  font-size: 15px;
+  border-bottom: 1px solid grey;
+  min-height: 50px;
+}
+.read {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+}
